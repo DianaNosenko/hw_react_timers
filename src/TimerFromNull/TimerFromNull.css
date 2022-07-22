@@ -1,0 +1,22 @@
+.green{
+    background-color: aquamarine;
+}
+.red{
+    background-color: rgb(222, 90, 90);
+}
+.visible {
+    font-size: 24px;
+    background-color: rgb(32, 18, 18);
+    color: aliceblue;
+}
+.hidden {
+    display: none;
+    
+}
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
